@@ -1,0 +1,2 @@
+# batch.ddos-script
+ONLY FOR EDUCATIONAL PURPOSES.
